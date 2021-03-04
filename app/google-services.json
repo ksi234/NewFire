@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "900017547396",
+    "firebase_url": "https://newfire-f198c-default-rtdb.firebaseio.com",
+    "project_id": "newfire-f198c",
+    "storage_bucket": "newfire-f198c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900017547396:android:e37660eca07fce75dcfad1",
+        "android_client_info": {
+          "package_name": "com.example.newfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900017547396-je30kqc36a7h29cucbapokgn28br8h21.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newfire",
+            "certificate_hash": "79bd1b85510df732ff2e15e3d3da5b9a82f60779"
+          }
+        },
+        {
+          "client_id": "900017547396-677ga1kjf4f4p5aecdbt7clbvrvi4u2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL4Kw5_X1aHr_DSdWft7XklVO5_HEA0Kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900017547396-677ga1kjf4f4p5aecdbt7clbvrvi4u2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
